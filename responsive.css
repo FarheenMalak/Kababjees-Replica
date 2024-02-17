@@ -332,7 +332,7 @@ body {
 }
 
 /* Styles for screens up to 1024px wide Tablets */
-@media (min-width: 769px) and (max-width: 1300px) {
+@media (min-width: 769px) and (max-width: 1024px) {
     body {
         margin: 0;
         padding: 0;
