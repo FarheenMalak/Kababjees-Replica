@@ -676,6 +676,10 @@ body {
     #logo-toggler{
       display: none;
     }
+    .navbar-nav {
+    padding-left: 0;
+    display: block;
+}
     .navbar{
         background-repeat: no-repeat;
         position: sticky;
@@ -722,7 +726,7 @@ body {
         color: rgb(255, 255, 255);
         text-align: center;
         filter: none;
-        padding:20%;
+        padding:15%;
     }
     .about{
         background-color: rgb(27, 26, 26);
