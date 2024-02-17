@@ -662,7 +662,7 @@ body {
       } 
     }
     /* Styles for screens larger than 1200px wide */ 
-@media (min-width: 1280px) {
+@media (min-width: 1200px) {
     #logo{
         height: 20%;
         width: 20%;
@@ -707,6 +707,7 @@ body {
         filter: none;
         margin-left: 0%;
         padding-left: 10%;
+        width : 100%;
         z-index: 1000;
     }
     .main{
